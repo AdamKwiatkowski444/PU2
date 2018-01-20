@@ -1,1 +1,1 @@
-# PU2
+# Edytowany plik readme.
